@@ -3,6 +3,10 @@
 ## SSD Controller Structure
 This SSD controller is composed of RISC-V CPU (Rocket), DNN accelerator (Gemmini), Vector processor (Hwacha). You have to connect DRAM controller and peripherals to run this SSD controller.
 
+<div align="center">
+  <img src="figs/soc.png" width="500">
+</div>
+
 ## How-to
 1. Create your Vivado project
 2. Add SSD controller IP. You can find how to add IP in Vivado project in here(https://camel.kaist.ac.kr/hjchoi/acc_ip).
