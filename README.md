@@ -25,4 +25,4 @@ The IPs that are used in this setting are as follows:
   * AXI Register Slice (https://www.xilinx.com/products/intellectual-property/axi-register-slice.html)
 
 ## Acknowledgment
-This project is funded by IITP 2021-0-00524
+This project is funded by IITP 2021-0-00524 & IITP 2022-0-00117
