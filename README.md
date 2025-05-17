@@ -24,5 +24,11 @@ The IPs that are used in this setting are as follows:
   * AXI Data Width Converter (https://docs.xilinx.com/r/en-US/pg059-axi-interconnect/AXI-Data-Width-Converter)
   * AXI Register Slice (https://www.xilinx.com/products/intellectual-property/axi-register-slice.html)
 
+## License
+
+See [LICENSE](./LICENSE) file for details about this project.
+
+See LICENSE.*Author* files for details about the repositories this project is based on.
+
 ## Acknowledgment
 This project is funded by IITP 2021-0-00524 & IITP 2022-0-00117
